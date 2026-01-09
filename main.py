@@ -8,7 +8,7 @@ import feedparser  # Для RSS
 TOKEN = "7877790193:AAEBes5i7UR_dnZAmE9DTiL_yUAuC5dI2aA"
 
 # Твой Telegram ID (узнай с /id, вставь сюда)
-USER_ID = 123456789  # ←←← Замени на свой ID!
+USER_ID = 753393124  # ←←← Замени на свой ID!
 
 # Список RSS-фидов по регионам (только с доступными RSS)
 RSS_FEEDS = [
